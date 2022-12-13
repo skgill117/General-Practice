@@ -12,7 +12,7 @@ public class twoSumArray {
 		
 		int [] result = twoSum(arr, 7);
 		
-		Arrays.stream(result).forEach(x -> System.out.print(x + " "));
+		System.out.println(Arrays.toString(result));
 
 	}
 

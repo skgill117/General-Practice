@@ -1,6 +1,6 @@
 package com.problems;
 
-public class MaximumProfit {
+public class ArrayMaximumProfit {
 
 	public static void main(String[] args) {
 		

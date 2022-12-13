@@ -52,6 +52,9 @@ public class EvenOdd {
 				
 			}
 		}, "Thread2");
+		
+		
+		
 		Thread t2 = new Thread(new Runnable() {
 			
 			@Override
@@ -59,6 +62,8 @@ public class EvenOdd {
 				evenOdd.printOddNumber();
 			}
 		},  "Thread1");
+		
+		
 		t1.start();
 		t2.start();
 	}
