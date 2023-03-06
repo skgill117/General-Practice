@@ -26,6 +26,8 @@ hs_err_pid*
 bin
 build
 target
+accounts
+core
 .settings
 .class
 .classpath
