@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4845a8f-e198-4c97-a552-ac4c3733f7ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/practice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/com/practice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/ArrayMaximumProfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/AtomicIntegerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/Exponential.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/FibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/Java8Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/Java8Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/KthHighestArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/LongestPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/MinimumBagProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/ReverseInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/ReverseStringSentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/SwapNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/VolatileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/Vowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/problems/twoSumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/shiv/CircularLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/shiv/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/shiv/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/shiv/HashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/com/shiv/LinkedList.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2iJfMzGkPG6A5QcONPgVlJeQhEQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Faang/General-Practice"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4845a8f-e198-4c97-a552-ac4c3733f7ba" name="Changes" comment="" />
+      <created>1719213556998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719213556998</updated>
+    </task>
+    <servers />
+  </component>
+</project>
